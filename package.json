@@ -1,7 +1,7 @@
 {
-    "name": "EXAMPLE NAME",
+    "name": "LoadFonts",
     "version": "1.0.0",
-    "description": "EXAMPLE DESCRIPTION. PLEASE CHANGE THIS.",
+    "description": "Load custom fonts to a project",
     "keywords": [],
     "author": "",
     "license": "ISC",
