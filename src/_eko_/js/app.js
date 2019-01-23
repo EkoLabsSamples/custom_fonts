@@ -5,7 +5,7 @@ import settings from '../config/settings.json';
 import playerOptions from '../config/playerOptions.json';
 
 let player;
-let head = 'node_beginning_2430df';
+let head = 'node_pexels_videos_1722697_2401b1';
 
 // Project essentials.
 export default {
