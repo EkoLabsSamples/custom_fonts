@@ -1,10 +1,24 @@
+import EkoUIComponents from 'EkoUIComponents'
+
 import playerOptions from '../config/playerOptions.json';
+// import 'src/assets/fonts/fonts.scss';
+import Typography from './components/typography/Typography'
+
 
 export default {
     onLoad: function(ctx) { },
 
     onInit: function(player, ctx) {
-        // See https://developer.helloeko.com for API documentation. Place your code here:
+        player.ui.add('topPanel', EkoUIComponents.EkoGroup, {
+            shouldShow: ()=>true,
+            children: [
+                {
+                    id: 'typography',
+                    component: Typography,
+                    props: {}
+                }
+            ]
+        });
     },
 
     playerOptions
