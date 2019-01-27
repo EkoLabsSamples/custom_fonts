@@ -1,7 +1,7 @@
 import EkoUIComponents from 'EkoUIComponents'
 
 import playerOptions from '../config/playerOptions.json';
-// import 'src/assets/fonts/fonts.scss';
+import '../assets/fonts/fonts.scss';
 import Typography from './components/typography/Typography'
 
 

@@ -1,7 +1,7 @@
 {
-    "name": "LoadFonts",
+    "name": "CustomFonts",
     "version": "1.0.0",
-    "description": "Load custom fonts to a project",
+    "description": "Use custom web fonts in a project",
     "keywords": [],
     "author": "",
     "license": "ISC",
