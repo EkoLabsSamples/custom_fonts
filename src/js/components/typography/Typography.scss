@@ -32,7 +32,8 @@
 	font-family: "Pacifico", cursive;
 	font-weight: 400;
 	position: relative;
-	margin: 20px auto;
+	margin: 0 auto;
+	margin-top: 60px;
 	z-index: 3;
 	width: 600px;
 	font-size: 30px;
@@ -73,7 +74,7 @@ span {
 	font-weight: 700;
 	font-size: 16px;
 	text-transform: uppercase;
-	margin: 70px 0 0;
+	margin: 35px 0 0;
 	position: relative;
 	letter-spacing: 6px;
 
@@ -103,10 +104,9 @@ span {
 }
 
 .line-5 {
-	margin: 20px 0 50px;
 	position: relative;
 	text-align: center;
-	margin: 50px auto;
+	margin: 30px auto;
 	display: block;
 	font-size: 20px;
 }
