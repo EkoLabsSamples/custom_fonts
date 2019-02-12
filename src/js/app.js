@@ -4,6 +4,7 @@ import playerOptions from '../config/playerOptions.json';
 import '../assets/fonts/fonts.scss';
 import Typography from './components/typography/Typography'
 
+
 export default {
     onLoad: function(ctx) { },
 
