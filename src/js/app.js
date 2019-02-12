@@ -8,6 +8,7 @@ export default {
     onLoad: function(ctx) { },
 
     onInit: function(player, ctx) {
+        
         player.ui.add('topPanel', EkoUIComponents.EkoGroup, {
             shouldShow: ()=>true,
             children: [
